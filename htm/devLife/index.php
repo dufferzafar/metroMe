@@ -4,7 +4,7 @@
 include("../header.php")
 ?>
 
-<script src="\dufferzafar\metroMe\js\scrolltopcontrol.js"></script>
+<script src="js\scrolltopcontrol.js"></script>
 <script>
 function getPage(page)
 {
@@ -47,16 +47,16 @@ function getPage(page)
 	}
 </style>
 
-<link rel="stylesheet" type="text/css" href="\dufferzafar\metroMe\plugins\lightview\css\lightview.css" />
-<script type="text/javascript" src="\dufferzafar\metroMe\plugins\lightview\spinners.min.js"></script>
-<script type="text/javascript" src="\dufferzafar\metroMe\plugins\lightview\lightview.js"></script>
+<link rel="stylesheet" type="text/css" href="plugins\lightview\css\lightview.css" />
+<script type="text/javascript" src="plugins\lightview\spinners.min.js"></script>
+<script type="text/javascript" src="plugins\lightview\lightview.js"></script>
 
 <body class="metrouicss">
     <div class="page secondary with-sidebar">
         <div class="page-header">
             <div class="page-header-content">
                 <h1>my life - a timeline</h1>
-                <a href="\dufferzafar\metroMe\" class="back-button white big page-back"></a>
+                <a href="" class="back-button white big page-back"></a>
             </div>
         </div>
 
@@ -137,7 +137,7 @@ function getPage(page)
 				<p>Writing all this felt great, really, i loved going back to the past, collecting data, putting things together to create a sort-of timeline. And by sort-of i mean to say that this isn't actually a 'timeline', it just gives a broad sense of the sequence of stuff.</p>
 				<p>Now go on, select something. Tell me if you like it.</p>
 		<!--
-				<button class="image-button bg-color-blue fg-color-white place-right">Download Source<img class="bg-color-orange" src="\dufferzafar\metroMe\images\res\download-32.png"/></button>
+				<button class="image-button bg-color-blue fg-color-white place-right">Download Source<img class="bg-color-orange" src="images\res\download-32.png"/></button>
 		-->
             </div>
         </div>
@@ -149,4 +149,4 @@ function getPage(page)
 
  </script>
 
-<script src="\dufferzafar\metroMe\js\sidebarDropdown.js"></script>
+<script src="js\sidebarDropdown.js"></script>

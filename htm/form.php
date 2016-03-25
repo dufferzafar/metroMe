@@ -3,17 +3,17 @@
 <body class="metrouicss">
     <div class="page secondary fixed-header">
         <div class="page-header">
-            <div class="page-header-content">     
-                <a href="\dufferzafar\metroMe\" class="back-button white big page-back"></a>                            
+            <div class="page-header-content">
+                <a href="" class="back-button white big page-back"></a>
                 <h1>contact me</h1>
             </div>
         </div>
-        
+
         <div class="page-region">
         	<div class="page-region-content">
                 <form id="contactForm" action="">
                     <div class="grid span10">
-                        <div class="row">                            
+                        <div class="row">
                             <div class="span6">
                                 <h3>Name(required)</h3>
                                 <div class="input-control text">
@@ -37,14 +37,14 @@
                                 <div class="input-control textarea">
                                     <textarea rows="14">
                                     </textarea>
-                                </div>                            
+                                </div>
                             </div>
                         </div>
                     </div>
                 </form>
             </div>
         </div>
-        
+
     </div>
 </body>
 

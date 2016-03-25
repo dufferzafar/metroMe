@@ -1,15 +1,15 @@
-<?php include("header.php")?>
+<?php include("header.php") ?>
 
 
 <body class="metrouicss">
     <div class="page secondary fixed-header">
         <div class="page-header">
-            <div class="page-header-content">     
-                <a href="\dufferzafar\metroMe\" class="back-button white big page-back"></a>                            
+            <div class="page-header-content">
+                <a href="" class="back-button white big page-back"></a>
                 <h1>faq</h1>
             </div>
         </div>
-        
+
         <div class="page-region">
         	<div class="page-region-content">
                 <ul class="accordion dark span12" style="color:#FFFFFF" data-role="accordion">
@@ -20,7 +20,7 @@
                     <li>
                         <a href="#">Why you did this?</a>
                         <div>I just wanted to learn Javascript(basically jQuery), some PHP stuff. Thats it.</div>
-                    </li>                    
+                    </li>
                     <li>
                         <a href="#">How you did this?</a>
                         <div>This region is too small to contain a complete answer, so, check <a href="how.php" target="_blank">this</a> out</div>
@@ -40,7 +40,7 @@
 				</ul>
             </div>
         </div>
-        
+
     </div>
 </body>
 
